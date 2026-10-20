@@ -1,0 +1,6 @@
+$ git log --oneline            (після внесення помилки)
+794ebe5 (HEAD -> master) Broken version - introduced bug
+780eb93 Stable version - Lab6 before changes
+
+$ git checkout HEAD~1
+HEAD is now at 780eb93 Stable version - Lab6 before changes
